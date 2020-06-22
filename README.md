@@ -1,0 +1,2 @@
+# graus
+exercicio looping
